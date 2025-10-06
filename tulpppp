@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Tulbid</title>
+    <style>
+        body {
+            background-color: #ec96d3;
+            padding: 20px;
+            font-family: Arial;
+        }
+
+        .tulp {
+            color: white;
+            background-color: rgb(195, 101, 117);
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tulbid</h1>
+    <p class="tulp">Tulbid on kevadlilled, mis õitsevad varakevadel.</p>
+    <a href="https://et.wikipedia.org/wiki/Tulp" target="_blank">Loe rohkem tulbidest Wikipediast</a>
+
+    
+    <p> Roosad tulbid on koige tavalisemad tuupi tulbid. </p>
+    <img src="/Users/enekencruz/Downloads/IMG_1664.JPG" alt="Pink tulips" width="400" height="400"/>
+
+    <button> Siit näed pilte roosadest tulpidest: 
+        <a href="https://www.google.com/search?q=pink+tulips&tbm=isch" target="_blank">vajuta siia</a>
+    </button>
+</body>
+</html>
